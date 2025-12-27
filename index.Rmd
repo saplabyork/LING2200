@@ -27,7 +27,7 @@ output:
 <div class="col-sm-6">
 
 # **Introduction to Speech and Language Sciences**
-### Winter 2025
+### Winter 2026
 \
 Tuesdays & Thursdays, 11:30am-1pm\
 Tuesday in Ross S540, Thursday in Accolade East 009\
