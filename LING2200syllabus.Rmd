@@ -30,7 +30,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # **LING 2200: Introduction to Speech and Language Sciences**\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
-Office hours: Tuesdays and Thursdays 12-1pm (Ross S546A)\
+Office hours: Mondays 12-1pm (Ross S546A) or by appaointment\
 A print version of this syllabus is available here: [LING2200syllabus](LING2200syllabus.pdf)
 
 ## Course Outline and Schedule
