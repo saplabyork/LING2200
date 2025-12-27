@@ -23,7 +23,7 @@ Good luck!
 \end{center}
 \newpage
 
-### 1. A 15 N(ewton) force on an object results in an acceleration of 5 $m/s^2$. What is the mass of the object? Please provide correct units [2pts]
+### 1. Suppose a cochlear implant was inserted into the cochlea (at the base of the stapes into the oval window) of someone with profound hearing loss. There was a mistake when the implant was made and frequencies at the apex of cochlea were not firing. Briefly explain whether this person would hear the difference between a male and female voice. [2pts]
 
 $$\\[2in]$$
 
@@ -52,7 +52,7 @@ d. Noise
 
 0.75 * sin(2 * pi * 377 * x) 
 
-What is the RMS amplitude of the resulting wave when the two waves are added? Round your answer to the twp digits. [2pts]
+What is the RMS amplitude of the resulting wave when the two waves are added? Round your answer to the two digits. [2pts]
 
 $$\\[1in]$$
 
@@ -88,7 +88,7 @@ b. Fourier analysis
 c. Perceptual magnet effect
 d. Quarter-wave resonator
 
-### 11. Why does the "k" in "coo" sound different from the "k" in "key, and what phenomenon is it the result of? [2pts]
+### 11. Why does the "k" in "coo" sound different from the "k" in "key, and what phenomenon is it the result of? (There are two correct answers, circle both) [2pts]
 
 a. Lips are rounded in "coo" and as a result the oral cavity is lengthened, raising F1; segmentation
 b. Lips are rounded in "coo" and as a result the pharyngeal cavity is widened, raising F2; coarticulation
@@ -103,11 +103,11 @@ BONUS:How do you propose you can make a stop consonant sound and why would this 
 
 $$\\[1.5in]$$
 
-### 13. What is the dB value for a sound with an absolute intensity of 0.0053 $W/m^2$? Round your answer to two decimal places.[3pts]
+### 13. What is the dB value for a sound with an absolute intensity of 0.0051 $W/m^2$? Round your answer to two decimal places.[3pts]
 
 $$\\[3.5in]$$
 
-### 14. Suppose you have a tube that's closed at one end. The frequency of the 3rd resonance is 0.054kHz. Assuming that the speed of sound is 330m/s, what is the length of the tube in cm? Use correct units.[3pts]
+### 14. Suppose you have a tube that's closed at one end. The frequency of the 3rd resonance is 0.044kHz. Assuming that the speed of sound is 330m/s, what is the length of the tube in cm? Use correct units.[3pts]
 
 $$\\[3.5in]$$
 
