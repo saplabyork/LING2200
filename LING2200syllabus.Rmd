@@ -41,7 +41,7 @@ A print version of this syllabus is available here: [LING2200syllabus](LING2200s
 This course is a rigorous introduction to key aspects of speech sciences, including acoustic phonetics, speech perception, and speech production and audition. The course will also present some fundamental concepts in speech-language development and disorders. The relationship between speech and abstract levels of language, such as syntax and phonology, is also considered though it is not the focus of the course. Specific topics include speech anatomy and aerodynamics, the speech chain, source-filter theory, auditory transduction, and theories of speech production and perception. The course also provides an overview of research methodologies for the analysis of speech, including instrumental techniques such as acoustic analysis with PRAAT.
 
 ## Course prerequisites:
-This course is required for all SPLS students. LING 1000 and PSYC 1010 are the prerequisites. This class is predicated on your knowing some fundamental concepts in Linguistics and/or Psychology. Therefore, **you must have all the prerequisite courses** in order to take this class. Special exceptions are made on a case-by-case basis.
+This course is required for all SPLS students. LING 1000 and PSYC 1010 are the prerequisites. This class is predicated on your knowing some fundamental concepts in Linguistics and/or Psychology. Therefore, **YOU MUST HAVE ALL THE PREREQUISITE COURSES** in order to take this class. Special exceptions are made on a case-by-case basis.
 
 ## Learning outcomes:
 
