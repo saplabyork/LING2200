@@ -29,12 +29,13 @@ The first week of class we dive into our subject matter by introducing some basi
 
 # The Speech Chain
 Take a look at the image below, the so-called "speech chain." It's an image that's used in many courses on language and cognitive science. It represents the nature of communicating a linguistic message via the vocal-audition apparatus. The image captures a lot of the basic ideas that we will be exploring in this course. 
-
+<br>
+<br>
 <p align="center">
   <img src="images/speech-chain.jpg">
 </p>
-
-
+<br>
+<br>
 In this course, we will be examining, in detail, the nature of:
 
 * **Acoustics**: the physical properties of sound
@@ -42,11 +43,11 @@ In this course, we will be examining, in detail, the nature of:
 * **Production**: the physical process of producing sounds
 * **Perception**: the psychological process of speech reception
 
-We will be dealing with all of these topics at a fairly basic or introductory level of sophistication. That means that we're only scratching the surface and each of these topics can be their own class! It's also important to note that our course will not be immediately concerned with **linguistic** representations and abstractions, topics which will be covered by other courses offered in the program like Phonetics (LING 2110), Acoustic Phonetics (LING 4220) and Phonology (LING 2120 and 3120). For example, we won't be looking at sets of data from different languages in order to figure out their sound system of phonological rules. We'll be dealing with concepts that are universal to all languages, and in cases where we have to a specific language, that language will likely be North American English. One thing to keep in mind is that we are going to be dealing with the physical instantiation of **spoken** language. You should know that human language comes in different flavors, that is, we can use different mechanical systems provided by the human body to communicate ideas. Normally developing humans ultimately utilze the oral (mouth)-aural (ear) system. If you acquire or are borth with hearing loss, it is likely that you would use a manual (signs) system for communicating langauge. 
+We will be dealing with all of these topics at a fairly basic or introductory level of sophistication. That means that we're only scratching the surface and each of these topics can be their own class! It's also important to note that our course will not be immediately concerned with **linguistic** representations and abstractions, topics which will be covered by other courses offered in the program like Phonetics (LING 2110), Acoustic Phonetics (LING 4220) and Phonology (LING 2120 and 3120). For example, we won't be looking at sets of data from different languages in order to figure out their sound system of phonological rules. We'll be dealing with concepts that are universal to all languages, and in cases where we have to a specific language, that language will likely be North American English. One thing to keep in mind is that we are going to be dealing with the physical instantiation of **spoken** language. You should know that human language comes in different flavors, that is, we can use different mechanical systems provided by the human body to communicate ideas. Normally developing humans ultimately utilze the oral (mouth)-aural (ear) system. If you acquire or are borth with hearing loss, it is likely that you would use a manual (signs) system for communicating language. 
 
-Back to the speech chain: in order to understand the fundamentals of speech, we have to have some grounding in the rules that govern the physical world. We will start with some definitions. 
+Back to the speech chain: in order to understand the fundamentals of the science of speech production, we have to have some grounding in the rules that govern the physical world. We will start with some terminology and definitions. 
 
-# Basic definitions
+# Some basic terminology
 
 In order for us to begin understanding the nature of speech sounds, we must familiarize ourselves with the science behind what makes sounds, in general. Speech is a **physical phenomenon** and as such, we must understand basic concepts of physics as it provides a bedrock of foundational elements for any sort of description and analysis of speech.
 
