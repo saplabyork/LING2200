@@ -68,7 +68,7 @@ Although you are responsible for readings from the following textbook:
 my goal is to make as much information available via lecture notes (see tab above) so as to minimize the use of the textbook. The book will be on reserve at Scott Library (in the Ross Building) and can be purchased. If you find an earlier edition of the book it's fine. The information hasn't changed, but the chapters might be different. Lastly, the lecture notes will be quite comprehensive. If I do not discuss a concept in lecture, it is likely that it won’t appear in a quiz or exam. Some readings will come from outside the textbook as well. These additional readings will be made available via pdf on the course website.
 
 ## eClass
-All lectures (videos), lecture slides, assignments, discussion boards, online Quizzes and Tests, and assignment submission will happen on the [eClass](http://eclass.yorku.ca) site for the course. Lecture slides will be posted the evening after the lecture happens.
+eClass will only be used for communication and assignment submission.
 
 ### Lecture notes
 Every lecture will follow the lecture notes (link on the task bar above). For the most part (actually really), it precludes your having to buy a textbook. Apart from the strict speech content, the notes will also provide you with animations, videos, demos, etc., which can bring the materials to life. The notes will also have quiz modules (ungraded) which allow you to test your knowledge.
