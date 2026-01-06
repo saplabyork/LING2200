@@ -84,12 +84,12 @@ Sound is essentially changes in air pressure that results from some sort of dist
 Molecules of air move in a random pattern, called [Brownian motion](https://en.wikipedia.org/wiki/Brownian_motion) and collide with each other and other objects at a relatively constant pressure.
 
 <p align="center">
-  <img width="200" height="200" src="https://i.pinimg.com/originals/15/38/66/153866beb99a7ec456ae1e6b0d643aea.gif"> <img width="200" height="200" src="https://water.lsbu.ac.uk/water/images/Brownianmotion.gif">
+  <img width="200" height="200" src="https://i.pinimg.com/originals/15/38/66/153866beb99a7ec456ae1e6b0d643aea.gif">
 </p>
 
 # Airflow
 
-Air moves from an area high pressure to an area of low pressure in order to equalize → driving pressure. Air only moves when there is a pressure differential between the areas. If there is no difference in pressure between the two areas, there is no airflow.
+Air molecules naturally spread themselves out equally. To get this equalization, air moves from an area high pressure to an area of low pressure → driving pressure. Air only moves when there is a *pressure differential* between the areas. If there is no difference in pressure between the two areas, there is no airflow.
 
 What is flow?→ the movement of air, measured in volume/time (e.g., *l/s*). The rate of flow is called **volume velocity**. There are two types of air flow
 
