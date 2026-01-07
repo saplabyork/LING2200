@@ -5,6 +5,8 @@ output:
     includes:
       in_header: "favicon.html"
     theme: paper
+  pdf_document: default
+
 ---
 
 ```{r setup, include=FALSE}
