@@ -142,7 +142,7 @@ As M~1~ moves away from M~2~ there is decreasing pressure (rarefaction)
 
 Here is a nice [video demonstration](https://www.youtube.com/watch?v=bYoTRx6gGX0) and explanation of compression and rarefaction of air molecules.
 
-## Molucule movement?
+## Molecule movement?
 
 Once molecules have been set into motion, three forces keep them moving back and forth before they eventually stop (remember Newton's Laws?)
 
@@ -170,6 +170,7 @@ One back and forth movement through the equilibrium point constitutes one *cycle
 This movement results in pressure changes. A cycle when describing sound is:
 
 > One cycle = increase in P from P~atm~ (compression), a decrease in P below to P~atm~ (rarefaction), then increase back to equilibrium
+
 > The number of cycles completed in one second is called the **frequency** and is measured in Hertz (Hz)
 
 For speech, we very often encounter frequencies in the thousands, so instead of writing, say, 5600 Hz, we might change the units to kilohertz (1000 Hz) giving us 5.6kHz.
