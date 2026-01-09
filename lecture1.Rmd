@@ -181,7 +181,7 @@ For speech, we very often encounter frequencies in the thousands, so instead of 
 
 > The **period** of a waveform is the time it takes for one cycle to occur
 
-Period is inversly proportional to frequency. So:
+Period is inversely proportional to frequency. So:
 $$F = 1/t ; t = 1/F$$
 If the frequency is 100Hz (or 100 cycles per second), then the period is 1/100 or 0.01 seconds. Period is symbolized as *t*.
 
