@@ -220,6 +220,8 @@ The complex periodic sound is the sum of many simple periodic tones. So in the p
 </figure>
 \
 
+This [website](https://phet.colorado.edu/sims/html/fourier-making-waves/latest/fourier-making-waves_all.html) has a very nice visualization of how harmonics add up to a complex periodic sound.
+
 ## Spectrum
 
 Waveforms can be displayed in many ways. We've seen how this looks above $\rightarrow$ conveys information about frequency, period, and amplitude but NO information about the components (harmonics in periodic sounds). 
