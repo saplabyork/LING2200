@@ -226,7 +226,7 @@ This [website](https://phet.colorado.edu/sims/html/fourier-making-waves/latest/f
 
 Waveforms can be displayed in many ways. We've seen how this looks above $\rightarrow$ conveys information about frequency, period, and amplitude but NO information about the components (harmonics in periodic sounds). 
 
-A **spectrum** (or more technically the **line spectrum** in this case) view, however, provides information about the amplitude of the the individual frequencies making up the complex periodic sound.
+A **spectrum** (or more technically the **line spectrum** in this case) view, however, provides information about the amplitude of the individual frequencies making up the complex periodic sound.
 
 <figure align="center">
   <img src="images/Spectrum1.gif" width="50%" height="50%">
@@ -238,7 +238,7 @@ A **spectrum** (or more technically the **line spectrum** in this case) view, ho
 
 In the line spectrum above, the F~0~ is 100Hz (represented by the first vertical line). The line is at 100 on the x-axis, and the height of the line represents the amplitude of that component. In this case, the F~0~ is the loudest component. The next component is at 2 x 100Hz or 200Hz, with a component at 300, 400, 500Hz, etc. Notice that each harmonic is lower in amplitude relative to the next lower harmonic $\rightarrow$ this is a feature of naturally vibrating sources. 
 
-* In a spectrum representation of of sound, there must be some time "chunk" over which the spectrum is computed. We'll learn how to do this in Praat.
+* In a spectrum representation of sound, there must be some time "chunk" over which the spectrum is computed. We'll learn how to do this in Praat.
 
 * Line spectra are NOT used for complex *aperiodic* sounds, which are characterized by energy across broad bands of frequencies. 
 
@@ -254,7 +254,7 @@ In the line spectrum above, the F~0~ is 100Hz (represented by the first vertical
 
 Sounds interact with their environment. Sounds combine with other sounds as well as bounce and get absorbed by barriers. Sometimes sound is not transmitted through barriers or obstacles in its path. The initiation of the sound is called the ***incident wave***, and only a small portion of it may be transmitted through barriers and depends upon the properties of both the sound and barrier. 
 
-## Absroption
+## Absorption
 
 Sounds may be **absorbed** or may be reflected. Softer and more porous materials absorb sounds more than do harder, denser materials. This is important to consider when we think about speech sounds and the structure and composition of our mouths.
 \
