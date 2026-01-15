@@ -44,6 +44,10 @@ navbar:
           href: lecture16.html
         - text: "Lecture 17"
           href: lecture17.html
+    - text: "Quiz guides"
+      menu:
+        - text: "Quiz 1"
+          href: quiz1_guide.html
     - text: "Final test review"
       href: final_review.html
 output_dir: "docs"

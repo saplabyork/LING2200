@@ -11,12 +11,12 @@
 
 
 
-<title>Resources</title>
+<title>Quiz 1 guide</title>
 
 <script src="site_libs/header-attrs-2.30/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -29,9 +29,13 @@
        h6 {font-size: 12px;}
        code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
        pre:not([class]) { background-color: white }</style>
+<script src="site_libs/jqueryui-1.13.2/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link rel="shortcut icon" href="images/logo.jpeg">
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -219,6 +223,69 @@ $(document).ready(function () {
 
 
 
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
 
 </head>
 
@@ -226,6 +293,16 @@ $(document).ready(function () {
 
 
 <div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
 
 
 
@@ -338,48 +415,33 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Resources</h1>
+<h1 class="title toc-ignore">Quiz 1 guide</h1>
 
 </div>
 
 
-<div id="praat" class="section level3">
-<h3>Praat</h3>
-<p><a href="http://praat.org">Praat</a> is a freely available phonetic
-analysis software.Please download it and make sure your version is up to
-date.<a href=""></a>.</p>
-</div>
-<div id="additional-praat-resources" class="section level3">
-<h3>Additional Praat resources</h3>
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+<div id="what-to-know" class="section level1">
+<h1>What to know</h1>
 <ol style="list-style-type: decimal">
-<li>Google is great, Google your problem</li>
-<li>Here is a collection of great Praat scripts which may (or may not)
-work with your version of Praat. Scripting is a great way to automate
-tedious tasks in Praat. We will be writing some</li>
-<li>Danielle Navarro wrote a <a
-href="https://compcogscisydney.org/learning-statistics-with-r/">free
-Psych Stats textbook using R</a>, it’s worth checking out (some of our
-textbook are based on Danielle’s)</li>
-<li>I am currently writing another stats textbook (incorporating some of
-the above). You can read it while it’s being made right here <a
-href="https://crumplab.github.io/statistics/">https://crumplab.github.io/statistics/</a>,
-also check out the lab manual for more specific things about doing
-various stats in R (also in draft right now) <a
-href="https://crumplab.github.io/statisticsLab/">https://crumplab.github.io/statisticsLab/</a></li>
-<li>Daniell Navarro recently made this website for introducing R, it’s
-great, check it out (also made using this R markdown process): <a
-href="http://compcogscisydney.org/psyr/">http://compcogscisydney.org/psyr/</a></li>
-<li>Check out my slightly older programming book that also introduces R
-<a
-href="https://crumplab.github.io/programmingforpsych/">https://crumplab.github.io/programmingforpsych/</a></li>
-<li>This is the definitive guide for all things R Markdown (you will
-find this very useful as you get better at this skill): <a
-href="https://bookdown.org/yihui/rmarkdown/">https://bookdown.org/yihui/rmarkdown/</a></li>
+<li>How to calculate the fundamental frequency from a waveform of a
+complex periodic sound</li>
+<li>How to calculate the wavelength and period of a sound given a
+frequency</li>
+<li>The relationship between the fundamental frequency and higher
+harmonics of a complex periodic sound</li>
+<li>How to read a line spectrum of a complex periodic sound</li>
 </ol>
 </div>
 
 
 
+</div>
+</div>
 
 </div>
 
@@ -412,6 +474,35 @@ $(document).ready(function () {
 
 <!-- code folding -->
 
+<script>
+$(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
 
 <!-- dynamically load mathjax for compatibility with self-contained -->
 <script>

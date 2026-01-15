@@ -1,0 +1,28 @@
+---
+title: "Quiz 1 guide"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+    toc: true
+    toc_float: true
+    collapsed: true
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+# What to know
+
+1) How to calculate the fundamental frequency from a waveform of a complex periodic sound
+2) How to calculate the wavelength and period of a sound given a frequency
+3) The relationship between the fundamental frequency and higher harmonics of a complex periodic sound
+4) How to read a line spectrum of a complex periodic sound
+
+
