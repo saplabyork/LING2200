@@ -130,9 +130,9 @@ In the period between the last day to drop a course without receiving a grade an
 |      | 3/17| 14      | Hearing loss, speech perception     | Ch.6    | Assignment 2 |
 | 10   | 3/19| 15      | Motor control, production           | Ch.9    |              |
 |      | 3/24| 16      | Speech perception theories          | Ch.12   |              |
-| 11   | 3/26|       | No class                      |    |              |
-|      | 3/31| 17        | Building words                              | Ch.12        |              |
-| 12   | 4/2 |         | Review                          |         |              |
-|      | 4/6 |        | Final exam| | |
+| 11   | 3/26| 17         | Building words/Review                   | Ch.12   |              |
+|      | 3/31|         | Review                              | Ch.12        |              |
+| 12   | 4/2 |         | Final exam                          |         |              |
+
 
 
