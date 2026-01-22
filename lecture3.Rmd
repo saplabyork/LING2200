@@ -229,6 +229,14 @@ The standard reference intensity (described above and presented here again) is $
 
 In reality, absolute intensities are not conveniently in whole number integers, so the resulting Bels measurement might be fractional. Suppose you end up with 2.3 Bels. The practitioners of acoustic sciences (for some reason or the other) for the use of decimals cumbersome and so introduced the **decibel**, which is $1/10^{th}$ a Bel. As a result, your 2.3 Bels x 10 = 23 decibels (dB). A decibel is 10 x $log_{10}\frac{I~x~}{I~r~}$.
 
+Here are some handy rules you should memorize!
+
+<p align="center">
+  <img src="images/log_rules.png" width="50%" height="50%">
+</p>
+\
+
+
 Try the following problems:
 
 > A large orchestra has an absolute intensity of 6.2 x $10^{-3} W/m^2$. What is the intensity of the orchestra, expressed in decibels, given the standard reference intensity of $10^{-12} W/m^2$?
