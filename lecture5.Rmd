@@ -105,7 +105,7 @@ The pattern of nodes and antinodes are always evenly spaced along the length of 
 </p>
 \
 
-If $L$ is the length of the tube, then the wavelength of the standing wave is $4L$. We can calculate the frequency from wavelength, remember? "v" is the speed of sound in air, or 343 m/s.
+If $L$ is the length of the tube, then the wavelength of the standing wave is $4L$. We can calculate the frequency from wavelength, remember? "v" is the speed of sound in air, or 330 m/s.
 $$
 \lambda _1 = 4L;
 F_1 = \frac{v}{4L}
