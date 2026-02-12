@@ -2,7 +2,7 @@
 .navbar {
   min-height: 10px !important;
   transition: min-height 0.3s ease, padding 0.3s ease, opacity 0.3s ease;
-  overflow: hidden;
+  /* overflow: hidden; <-- REMOVE THIS, it clips dropdowns */
   opacity: 0.4;
   padding-top: 2px !important;
   padding-bottom: 2px !important;
@@ -26,4 +26,9 @@
 .navbar:hover .navbar-brand,
 .navbar:hover .navbar-nav {
   opacity: 1;
+}
+
+/* Ensure dropdowns are always visible when open */
+.navbar .dropdown-menu {
+  overflow: visible !important;
 }
