@@ -1,0 +1,29 @@
+/* Collapse the navbar to a slim bar by default */
+  .navbar {
+    min-height: 10px !important;
+    transition: min-height 0.3s ease, padding 0.3s ease, opacity 0.3s ease;
+    overflow: hidden;
+    opacity: 0.4;
+    padding-top: 2px !important;
+    padding-bottom: 2px !important;
+  }
+
+/* Expand fully on hover */
+  .navbar:hover {
+    min-height: 50px !important;
+    padding-top: 8px !important;
+    padding-bottom: 8px !important;
+    opacity: 1;
+  }
+
+/* Hide navbar text/links when collapsed, show on hover */
+  .navbar .navbar-brand,
+.navbar .navbar-nav {
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.navbar:hover .navbar-brand,
+.navbar:hover .navbar-nav {
+  opacity: 1;
+}

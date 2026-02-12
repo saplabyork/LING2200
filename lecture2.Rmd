@@ -5,6 +5,7 @@ output:
     includes:
       in_header: "favicon.html"
     theme: paper
+    css: custom.css
     toc: true
     toc_float: true
     collapsed: true
