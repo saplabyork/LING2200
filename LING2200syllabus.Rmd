@@ -5,6 +5,7 @@ output:
     includes:
       in_header: "favicon.html"
     theme: paper
+    css: custom.css
   pdf_document: default
 
 ---
