@@ -223,7 +223,7 @@ Acoustic resonators are important for our understanding of speech as they model 
 
 To demonstrate this, imagine a half-wave resonator (open-open) with a length of 1m. This means that F1 is 343/2 = 171.5Hz. If I had a 170Hz tuning fork and I struck it, introducing the sound to the open-open tube, I would expect the sound to be amplified because 170 is very close to the resonant frequency of the tube. The further away I get from the resonant frequency, the more dampening an effect it would have on the sound introduced into the tube. 
 
-The resonant frequency of the tube is fairly "sharp" meaning that the tube is uniform in dimensions and target a specific frequency pretty well. Frequencies around the resonant frequency are also amplified, but not as much as the resonant frequency. This type of *uniform resonator* is said to be **narrowly tuned**. This is in contrast to an oddly shaped resonator, where there is a **broader** *band* of frequencies which can be amplified, though the overamplitude increase is small. 
+The resonant frequency of the tube is fairly "sharp" meaning that the tube is uniform in dimensions and target a specific frequency pretty well. Frequencies around the resonant frequency are also amplified, but not as much as the resonant frequency. This type of *uniform resonator* is said to be **narrowly tuned**. This is in contrast to an oddly shaped resonator, where there is a **broader** *band* of frequencies which can be amplified, though the overall amplitude increase is small. 
 
 <p align="center">
   <img src="images/nonuniform_resonator.png" width="75%%" height="75%">
