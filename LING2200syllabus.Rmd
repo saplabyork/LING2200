@@ -118,10 +118,10 @@ In the period between the last day to drop a course without receiving a grade an
 |      | 1/29 | 7       | Laryngeal bones and muscles         | Ch.4    | [Assignment 1](LING2200_Assignment1.pdf)             |
 | 5    | 2/03 | 8       | Phonation                           |         |              |
 |      | 2/05 | 8       | Phonation disorders                 |         |              |
-|      | 2/10 |         | MT REVIEW                           |         |              |
-|      | 2/12 |         | Midterm                             |         |              |
+|      | 2/10 |         | ~~MT REVIEW~~ Snow                           |         |              |
+|      | 2/12 |         | ~~Midterm~~ MT review                             |         |              |
 | 6    | 2/17,19|       | Reading week                        |         |              |
-|      | 2/24|          | Audition                             | Chs.6,7 |              |
+|      | 2/24|          | ~~Audition~~ Midterm                             | Chs.6,7 |              |
 | 7    | 2/26| 9,10    | Audition                            | Chs.7,8 |              |
 |      | 3/03| 10      | Audition: Ear anatomy               | Ch.8    |              |
 | 8    | 3/05| 11      | General auditory perception         | Ch.8    |              |
