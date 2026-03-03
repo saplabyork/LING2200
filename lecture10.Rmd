@@ -160,4 +160,4 @@ The basilar membrane, which is the inferior wall of the cochlear duct, is not un
   <img src="images/cochlea_width.png">
 </p>
 
-So the physical characteristics of the basilar membrane allows different frequencies of sound to fire hair cells at different portions of the membrane. This is called **Tonotopic organization**. This was discovered by the Hungarian biophysicist [Georg von Bekesy](https://en.wikipedia.org/wiki/Georg_von_B%C3%A9k%C3%A9sy). [Here](https://youtu.be/vhizzJApNV0?si=LfW4eP1647jOOMKm) is an excellent video demonstrating the varying compliance of the basilar membrane at different frequencies.
+So the physical characteristics of the basilar membrane allows different frequencies of sound to fire hair cells at different portions of the membrane. This is called **Tonotopic organization**. This was discovered by the Hungarian biophysicist [Georg von Bekesy](https://en.wikipedia.org/wiki/Georg_von_B%C3%A9k%C3%A9sy). [Here](https://www.youtube.com/watch?v=nEt25kwLIdU) is a nice animation the varying compliance of the basilar membrane at different frequencies.
