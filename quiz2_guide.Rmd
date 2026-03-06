@@ -1,0 +1,30 @@
+---
+title: "Quiz 2 guide"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+    css: custom.css
+    toc: true
+    toc_float: true
+    collapsed: true
+    number_sections: false
+    toc_depth: 3
+    #code_folding: hide
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+# What to know
+
+1) What is special about the basilar membrane and the hair cells on its surface?
+2) Vowels according to F1 and F2 space. What vowel has a low F1 and high F2? What vowel has a low F1 and a low F2? Look at [Lecture 11](https://saplabyork.github.io/LING2200/lecture11.html#Vowel_perception)
+3) Formant structure (F1 and F2) and lip rounding and spreading. How do these gestures affect the resonances (F1 and F2) of the oral cavity?
+4) Functions of the middle ear
+5) Also review the formulas for quarter wave and half wave resonators
+
+

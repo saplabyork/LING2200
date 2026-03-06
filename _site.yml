@@ -48,6 +48,8 @@ navbar:
       menu:
         - text: "Quiz 1"
           href: quiz1_guide.html
+        - text: "Quiz 2"
+          href: quiz2_guide.html
     - text: "Final test review"
       href: final_review.html
 output_dir: "docs"
