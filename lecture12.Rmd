@@ -115,5 +115,5 @@ There is really now hard and fast rule for determining the onset and offset of t
 
 # Assignment 2
 
-Assignment 2 is [here](Assignment 2_2024.pdf).
+Assignment 2 is [here](Assignment 2_2200.pdf).
 There are the sound files that you'll need: [Hide, Heidi, Heidelberg](sounds/hide_heidi_heidel.wav)
